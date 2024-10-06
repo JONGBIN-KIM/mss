@@ -7,7 +7,9 @@
 시각화페이지에서 데이터 초기셋팅, 간단한 테스트, 그에따른 데이터변화 확인이 가능합니다.   
 어플리케이션 실행 후, 해당 페이지에 접속하시어 확인부탁드립니다.  
 <br>  
-#### 사용기술  :  Kotlin, Springboot, H2, SpringCache
+#### * 사용 기술 :  Kotlin, Springboot, H2, SpringCache 
+#### * 실행 방법 : 별도의 솔루션설치나 환경설정 없이, 바로 Application Start !  
+<br>
 
 ### 구현 1. 카테고리 별 최저가 상품
 #### API의 효과
